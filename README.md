@@ -9,7 +9,7 @@ Keep Swimming !
 #RTFM
 
 
-PS: To install norminette use the following commands:
+PS: To install norminette on a Linux VM (if  you want to work at home for example) use the following commands:
 
 python3 -m pip install --upgrade pip setuptools
 python3 -m pip install norminette
